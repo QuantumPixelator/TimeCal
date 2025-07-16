@@ -38,6 +38,10 @@ python timecal.pyw
 - **Delete Entry:** Select a date with an entry, choose "Delete" and confirm.
 - **Reporting:** Click the "Reporting" button, select a start and end date, and generate your report.
 
+## Screenshot
+
+![TimeCal Screenshot](screenshot.png)
+
 ## License
 
 MIT License
